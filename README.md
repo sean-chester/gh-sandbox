@@ -1,13 +1,11 @@
-# sean-chester.github.io
-_Personal academic webpage, served with GitHub Pages and Jekyll_
+# gh-sandbox
+_*Warning! Here be dragons!!*_
 
-This is a single-contributor repository to serve up my personal academic webpage. 
-You are welcome to fork and adapt the repository in any way, for both commercial and non-commercial purposes, 
-as long as you immediately, recursively delete all contents of the _assets/_ directory. 
-I am highly unlikely to accept pull requests: 
-please contact me in advance if you are compelled to create one. 
+_Interacting with this repository, either as source or on the visible github pages deployment, could turn your computer into a fire-breathing serpent who eats Computer Scientists. It may have other unanticipated effects. You proceed at your own risk._
 
-**View the website in the wild**: http://sean-chester.github.io.
+**Ignore the warning and view the website in the wild**: https://sean-chester.github.io/gh-sandbox/.
+
+This repository is simply for trialling out new ideas, many of which should never have occurred in the first place. The repository could also disappear, reappear, and generally act like an intermittently transparent ghost without any warning at all. You really ought to be spooked.
 
 
 ## License
